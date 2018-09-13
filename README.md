@@ -1,4 +1,4 @@
 # hello-world
 Initial repository
 Hi all!
-This is my first branch edit 9-12-18.
+(New note: This is my first branch edit 9-12-18)
